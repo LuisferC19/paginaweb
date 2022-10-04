@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "fermosnter";
+    src: url("../pagweb/tipografiaMo/MonsterEnergy.ttf");
+}
+@font-face {
+    font-family: "bluetea";
+    src: url("../pagweb/tipografiaMo/bluetea/Bluetea.ttf");
+    font-size: xx-small;
+}
+@font-face {
+    font-family: "honey";
+    src: url("../pagweb/tipografiaMo/honey_latte_2/Honey\ Latte.ttf");
+}
+
+.primary-black{
+color:black
+}
+.secundari-green{
+    color: green;
+}
+
+.text-white{
+    color: white;
+}
+.text-red{
+    color: red;
+}
+body{
+background-color: rgb(77, 212, 236);
+}
